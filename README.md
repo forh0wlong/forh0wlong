@@ -1,4 +1,4 @@
 - 👋
 - 👀 Interested in computer graphics
-- 📫 Discord: forh0wlong
 - 💻 I code with: Java, Kotlin, C#
+- 📫 Discord: forh0wlong
